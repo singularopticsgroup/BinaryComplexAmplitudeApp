@@ -12,7 +12,8 @@ This software requires Image Acquisition Toolbox to operate.
 ## Installation
 The user has one option to use the BCAA:
 
-* Install the app directly using the BCAA.mlappinstall file, to make it avaialable as an internal Matlab app (suggested). 
+* Install the app directly using the BCAA.mlappinstall file, to make it avaialable as an internal Matlab app (suggested).
+* Copy the BCAA folder located in the /data folder into your desktop and run the app using the build graphic user interface through the BCAA.mlapp file. Remember the BCAA.mlapp must be in the same folder as 'Materials' and 'Scripts' folders.
 
 ## Usage
 
