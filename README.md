@@ -12,7 +12,7 @@ Binary Complex Amplitude App - Matlab software to design and operate DMD manufac
 * The Digital Micromirror Device with a ViALUX motherboard and **the ViALUX alp4.4 dll drivers** available at https://www.vialux.de/de/download.html.
 
 ## Installation
-Install the app directly using the BinaryComplexAmplitudeApp.mlappinstall file, to make it avaialable as an internal Matlab app. The BinaryComplexAmplitudeApp.mlappinstall file is available in Binary Complex Amplitude App folder.
+Install the app directly using the BinaryComplexAmplitudeApp.mlappinstall file, to make it avaialable as an internal Matlab app. The BinaryComplexAmplitudeApp.mlappinstall file is available in src folder.
 
 ## Usage
 
