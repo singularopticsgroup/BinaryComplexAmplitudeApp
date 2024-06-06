@@ -5,15 +5,14 @@ Binary Complex Amplitude App - Matlab software to design and operate DMD manufac
 
 
 ## Requirements
-Make sure that you have Matlab R2023a or newer installed.
 
-This software requires Image Acquisition Toolbox to operate.
+* Make sure that you have **Matlab R2020** or newer installed.
+* Active **Image Acquisition Toolbox**.
+* **MATLAB Support for MinGW-w64 C/C++/Fortran Compiler** and optional Add-ons that enable MATLAB – camera communication.
+* The Digital Micromirror Device with a ViALUX motherboard and **the ViALUX alp4.X dll drivers** available at https://www.vialux.de/de/download.html are required.
 
 ## Installation
-The user has one option to use the BCAA:
-
-* Install the app directly using the BCAA.mlappinstall file, to make it avaialable as an internal Matlab app (suggested).
-* Copy the BCAA.zip into your desktop and run the app using the build graphic user interface through the BCAA.mlapp file. Remember the BCAA.mlapp must be in the same folder as 'Materials' and 'Scripts' folders.
+Install the app directly using the BinaryComplexAmplitudeApp.mlappinstall file, to make it avaialable as an internal Matlab app. The BinaryComplexAmplitudeApp.mlappinstall file is available in Binary Complex Amplitude App folder.
 
 ## Usage
 
