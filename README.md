@@ -1,4 +1,6 @@
 # Binary Complex Amplitude App (BCAA)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15031863.svg)](https://doi.org/10.5281/zenodo.15031863)
+
 Binary Complex Amplitude App - Matlab software to design and operate DMD manufactured by Vialux GmbH
 
 ## Related papers:
